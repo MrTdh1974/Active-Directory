@@ -1,5 +1,5 @@
 # Active-Directory
-Creating Active Directory Through Azure VMs
+Creating and Configuring an On-Premises Active Directory Through Azure VMs
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
